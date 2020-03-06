@@ -4,7 +4,7 @@ This is an implementation of interfaces for javascript
 
 ### /interfaces/Contract.js
 
-This is the last parent inheritance in your folder
+This is the last parent inheritance in your tree
 
 ### /interfaces/PersonInterface.js
 
